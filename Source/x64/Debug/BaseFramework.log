@@ -1,0 +1,11 @@
+﻿  Bitmap.cpp
+  Camera.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vertex.cpp
+  Generating Code...
+  BaseFramework.vcxproj -> D:\uni work\graphics 1\100479966\x64\Debug\100479966.exe
